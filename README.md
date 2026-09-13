@@ -72,9 +72,9 @@ The answer is always yes. And the learning is always in the doing.
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=s-Himansh&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats-sigma-ten.vercel.app/api?username=s-Himansh&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=s-Himansh&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats-sigma-ten.vercel.app/api/top-langs/?username=s-Himansh&layout=compact&theme=radical)
 
 </div>
 
